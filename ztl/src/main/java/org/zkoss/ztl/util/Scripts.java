@@ -60,8 +60,6 @@ public class Scripts {
 	//private static final String injectableSelenium = readScript(SELENIUM_PREFIX + "injectableSelenium.js");
 	private static final String injectableSelenium = readScript("/injectableSelenium.js");
 	
-	public static final String ZK_FIXED_SCRIPTS = readScript("/zkfixed.js");;
-
 	/**
 	 * Returns whether the locator can be recognized via ZK engine.
 	 */
